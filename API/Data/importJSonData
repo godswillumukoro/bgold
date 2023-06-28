@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Silk Smooth Straight Hair Extensions",
+    "description": "Achieve silky smooth hair with our high-quality Silk Smooth Straight Hair Extensions. These extensions blend seamlessly with your natural hair, giving you a flawless and natural look.",
+    "price": 19.99,
+    "pictureUrl": "/images/hair-extension1.png",
+    "type": "Hair Extensions",
+    "brand": "LuxuryLocks",
+    "quantityInStock": 100
+  },
+  {
+    "id": 2,
+    "name": "Curl Envy Curling Iron",
+    "description": "Create beautiful and bouncy curls with our Curl Envy Curling Iron. This professional-grade curling iron heats up quickly and delivers long-lasting curls that will make heads turn.",
+    "price": 39.99,
+    "pictureUrl": "/images/curling-iron.png",
+    "type": "Styling Tools",
+    "brand": "StyleMasters",
+    "quantityInStock": 50
+  },
+  {
+    "id": 3,
+    "name": "Volume Maximizer Volumizing Spray",
+    "description": "Get enviable volume and lift with our Volume Maximizer Volumizing Spray. This lightweight formula adds instant body and fullness to your hair, giving you the perfect base for any hairstyle.",
+    "price": 12.99,
+    "pictureUrl": "/images/volumizing-spray.png",
+    "type": "Styling Products",
+    "brand": "Volumina",
+    "quantityInStock": 80
+  },
+  {
+    "id": 4,
+    "name": "Smooth Operator Flat Iron",
+    "description": "Achieve sleek and straight hair with our Smooth Operator Flat Iron. This professional-grade flat iron features advanced ceramic plates that glide smoothly through your hair for a flawless straightening experience.",
+    "price": 49.99,
+    "pictureUrl": "/images/flat-iron.png",
+    "type": "Styling Tools",
+    "brand": "GlamStyle",
+    "quantityInStock": 60
+  },
+  {
+    "id": 5,
+    "name": "Texture Master Texturizing Spray",
+    "description": "Add texture and definition to your hair with our Texture Master Texturizing Spray. This spray creates effortless tousled waves and enhances the natural texture of your hair for a beachy and lived-in look.",
+    "price": 14.99,
+    "pictureUrl": "/images/texturizing-spray.png",
+    "type": "Styling Products",
+    "brand": "WaveWonders",
+    "quantityInStock": 70
+  },
+  {
+    "id": 6,
+    "name": "ColorPop Temporary Hair Chalk",
+    "description": "Experiment with fun and vibrant hair colors using our ColorPop Temporary Hair Chalk. This easy-to-use hair chalk allows you to create bold and temporary color transformations without any commitment.",
+    "price": 8.99,
+    "pictureUrl": "/images/hair-chalk.png",
+    "type": "Temporary Color",
+    "brand": "ColorSplash",
+    "quantityInStock": 120
+  },
+  {
+    "id": 7,
+    "name": "Root Revive Root Touch-Up Powder",
+    "description": "Keep your roots looking fresh and flawless with our Root Revive Root Touch-Up Powder. This innovative powder formula covers roots and gray hairs instantly, extending the time between salon visits.",
+    "price": 16.99,
+    "pictureUrl": "/images/root-touch-up.png",
+    "type": "Root Touch-Up",
+    "brand": "CoverUp",
+    "quantityInStock": 90
+  },
+  {
+    "id": 8,
+    "name": "Heat Shield Thermal Protection Spray",
+    "description": "Protect your hair from heat damage with our Heat Shield Thermal Protection Spray. This lightweight spray forms a protective barrier on your hair, reducing damage caused by styling tools and heat exposure.",
+    "price": 11.99,
+    "pictureUrl": "/images/thermal-spray.png",
+    "type": "Styling Products",
+    "brand": "HeatGuard",
+    "quantityInStock": 100
+  },
+  {
+    "id": 9,
+    "name": "Curl Definer Cream",
+    "description": "Define and enhance your curls with our Curl Definer Cream. This nourishing formula adds moisture and hold to your curls, leaving them frizz-free, bouncy, and beautifully defined.",
+    "price": 13.99,
+    "pictureUrl": "/images/curl-cream.png",
+    "type": "Styling Products",
+    "brand": "CurlMaster",
+    "quantityInStock": 80
+  },
+  {
+    "id": 10,
+    "name": "Volume Boost Dry Shampoo",
+    "description": "Refresh and volumize your hair on the go with our Volume Boost Dry Shampoo. This lightweight and residue-free formula absorbs excess oil and adds instant volume, extending the life of your hairstyle.",
+    "price": 9.99,
+    "pictureUrl": "/images/dry-shampoo.png",
+    "type": "Dry Shampoo",
+    "brand": "FreshLocks",
+    "quantityInStock": 150
+  },
+  {
+    "id": 11,
+    "name": "Beach Babe Sea Salt Spray",
+    "description": "Achieve effortless beachy waves with our Beach Babe Sea Salt Spray. This salt-infused spray adds texture and tousled waves to your hair, giving you that sun-kissed and carefree beach look.",
+    "price": 12.99,
+    "pictureUrl": "/images/sea-salt-spray.png",
+    "type": "Styling Products",
+    "brand": "WaveMaker",
+    "quantityInStock": 70
+  },
+  {
+    "id": 12,
+    "name": "Shine On Hair Serum",
+    "description": "Add instant shine and smoothness to your hair with our Shine On Hair Serum. This lightweight serum tames frizz, controls flyaways, and leaves your hair looking glossy and radiant.",
+    "price": 15.99,
+    "pictureUrl": "/images/hair-serum.png",
+    "type": "Styling Products",
+    "brand": "ShineLux",
+    "quantityInStock": 90
+  },
+  {
+    "id": 13,
+    "name": "Frizz Control Smoothing Cream",
+    "description": "Say goodbye to frizz and hello to sleek hair with our Frizz Control Smoothing Cream. This smoothing cream tames unruly hair, reduces frizz, and provides long-lasting smoothness and manageability.",
+    "price": 14.99,
+    "pictureUrl": "/images/smoothing-cream.png",
+    "type": "Styling Products",
+    "brand": "FrizzFix",
+    "quantityInStock": 80
+  },
+  {
+    "id": 14,
+    "name": "Curl Enhancing Mousse",
+    "description": "Boost and define your curls with our Curl Enhancing Mousse. This lightweight mousse adds volume, bounce, and definition to your curls, leaving them soft, touchable, and frizz-free.",
+    "price": 12.99,
+    "pictureUrl": "/images/curl-mousse.png",
+    "type": "Styling Products",
+    "brand": "CurlRevive",
+    "quantityInStock": 100
+  },
+  {
+    "id": 15,
+    "name": "Smooth Finish Hair Spray",
+    "description": "Lock in your style with our Smooth Finish Hair Spray. This lightweight and flexible hair spray provides long-lasting hold and control, while keeping your hair touchably soft and smooth.",
+    "price": 10.99,
+    "pictureUrl": "/images/hair-spray.png",
+    "type": "Styling Products",
+    "brand": "StylePro",
+    "quantityInStock": 120
+  }
+]
