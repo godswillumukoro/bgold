@@ -11,20 +11,6 @@ export default function Catalog() {
       .then((data) => setProducts(data));
   }, []);
 
-  // function addProduct() {
-  //   setProducts((previousState) => [
-  //     ...previousState,
-  //     {
-  //       id: previousState.length + 101,
-  //       name: "Product" + (previousState.length + 1),
-  //       price: previousState.length * 100 + 100,
-  //       brand: "hello brand",
-  //       description: "hello description",
-  //       pictureUrl: "http://picsum.photos/200",
-  //     },
-  //   ]);
-  // }
-
   return (
     <>
       <ProductList products={products} />
